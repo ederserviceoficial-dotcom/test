@@ -1,0 +1,8 @@
+{
+  "name": "Aider Studio",
+  "description": "A high-end, professional photo and video editing suite with a sleek dark interface, featuring advanced timelines, lenses, effects, and export controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
